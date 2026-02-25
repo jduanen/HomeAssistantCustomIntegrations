@@ -1,0 +1,9 @@
+{
+  "domain": "adsb_tracker",
+  "name": "ADSB Tracker",
+  "version": "0.1.0",
+  "documentation": "https://github.com/jduanen/HomeAssistantCustomIntegrations/adsb_tracker",
+  "requirements": ["aiohttp>=3.8.0"],
+  "codeowners": ["@jduanen"],
+  "iot_class": "local_polling"
+}
